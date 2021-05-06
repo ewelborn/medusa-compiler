@@ -1,0 +1,4 @@
+string a = "Hello";
+string b = ", ";
+string c = "world!";
+string d = a..b..c; // d = "Hello, world!"

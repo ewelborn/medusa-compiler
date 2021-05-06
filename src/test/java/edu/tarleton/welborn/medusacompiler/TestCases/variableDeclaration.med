@@ -1,0 +1,4 @@
+int a;
+float b = 0.2;
+string c = "Hello, world!";
+int d = a;

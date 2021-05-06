@@ -1,0 +1,2 @@
+int a = (int) "55";
+string b = (string) a;

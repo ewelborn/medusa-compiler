@@ -1,0 +1,3 @@
+string a = "5";
+int d = 5;
+string c = a..(string) d;
